@@ -21,3 +21,11 @@ Overall, this notebook is designed to introduce PySpark basics for big data anal
 
 OUTPUT:
 <img width="1920" height="864" alt="Image" src="https://github.com/user-attachments/assets/55c4abcd-fa12-4b0d-affd-bd46bd4912d4" />
+
+<img width="1920" height="864" alt="Image" src="https://github.com/user-attachments/assets/d7aba016-8121-4bd1-9e72-9a07478563bc" />
+
+<img width="1465" height="864" alt="Image" src="https://github.com/user-attachments/assets/1d1cd73c-6f49-44d9-b3f1-819ad679669a" />
+
+<img width="1729" height="856" alt="Image" src="https://github.com/user-attachments/assets/8564310c-63e7-4a6b-8441-a5d9b5b2d137" />
+
+<img width="1815" height="865" alt="Image" src="https://github.com/user-attachments/assets/610cc2f2-b384-46c3-bd3a-f36687999bd6" />
